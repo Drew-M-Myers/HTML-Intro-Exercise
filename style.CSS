@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    color: aliceblue;
+}
+body
+{
+    background-image: url("images/technology-background-1632715.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image1
+{
+    display: block;
+    margin-right: 5%;
+    margin-left: auto;
+}
+#title
+{
+    background-color: gray;
+    font-size: 55px;
+}
